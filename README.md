@@ -236,4 +236,28 @@ Then scroll down and open advanced options dropdown and select EasyEDA multi-col
 After that just add it to your cart and you should be all set!
 
 4. Click [here](https://u.easyeda.com/account/user/coupon/activating?uuid=aaf0cac0bd17447293ccde82d97bed9c) to claim a $10 coupon which you can use towards your board.
-5. [Submit](https://forms.hackclub.com/haxmas-day-2) your project and then get a grant to cover shipping and other costs!
+
+Make sure to activate the coupon!
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ece99086b6505182_image.png)
+
+
+
+---
+
+## Submitting your project
+
+1. Export your source files!
+
+Go to file -> Save as -> Project Save as (Local) 
+This should give a .epro file.
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/98869e79b08836a5_image.png)
+
+2. Create a GitHub repository and upload the .epro file
+
+
+3. Head over to the [Submit Form](https://forms.hackclub.com/haxmas-day-2) and submit your project. (For the Playable URL you can just use your GitHub URL)
+
+
+4. Now simply wait for a few days to get your grant! Once you get the grant you can order your PCB :D
