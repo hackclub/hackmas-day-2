@@ -236,4 +236,4 @@ Then scroll down and open advanced options dropdown and select EasyEDA multi-col
 After that just add it to your cart and you should be all set!
 
 4. Click [here](https://u.easyeda.com/account/user/coupon/activating?uuid=aaf0cac0bd17447293ccde82d97bed9c) to claim a $10 coupon which you can use towards your board.
-5. [Submit](https://haxmas.hackclub.com/submit) your project and then get a grant to cover shipping!
+5. [Submit](https://forms.hackclub.com/haxmas-day-2) your project and then get a grant to cover shipping and other costs!
