@@ -4,6 +4,8 @@
 
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/ba7b56ae2d400af1_image.png)
 
+**Prize: $10 PCB production grant + 1 snowflake**
+
 ## Index
 - Setup EasyEDA
 - Creating a Project in EasyEDA
