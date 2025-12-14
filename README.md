@@ -209,3 +209,29 @@ If you’d like to add designs on the back of the PCB, simply:
 3. Adjust placement as desired.
 
 ---
+## Ordering the Board
+
+Once you’re happy with your design, it’s time to generate the files and place your order.
+
+1. In the PCB editor, Go on the top bar and click on the order PCB icon
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/55c90eda2deb2d8a_image.png)
+
+You're going to get a bunch of dialogs, just continue and it will then take you over to JLC
+
+2. You will see something like this on the order page 
+
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/0f8049aa6c935a71_image.png)
+
+3. Change your settings as shown
+
+Under PCB Specifications change PCB Color to White and Surface Finish to ENIG
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b1e95ac05f2bea9f_image.png)
+
+Then scroll down and open advanced options dropdown and select EasyEDA multi-color silkscreen as your Silkscreen Technology
+![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/8eeb408a8ee6db52_image.png)
+
+After that just add it to your cart and you should be all set!
+
+4. Click [here](https://u.easyeda.com/account/user/coupon/activating?uuid=aaf0cac0bd17447293ccde82d97bed9c) to claim a $10 coupon which you can use towards your board.
+5. [Submit](https://haxmas.hackclub.com/submit) your project and then get a grant to cover shipping!
