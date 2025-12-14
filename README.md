@@ -18,7 +18,7 @@
 
 ## Set Up Accounts
 
-Head over to [EasyEDA]() and create an account if you haven’t already. EasyEDA is a web-based PCB design tool that supports multicolor silkscreen printing through JLCPCB and this is why we’ll be using it for our project.
+Head over to [EasyEDA](https://easyeda.com/) and create an account if you haven’t already. EasyEDA is a web-based PCB design tool that supports multicolor silkscreen printing through JLCPCB and this is why we’ll be using it for our project.
 
 ![img](https://hc-cdn.hel1.your-objectstorage.com/s/v3/b77d829a6e6aac9a_image.png)
 
